@@ -1,0 +1,12 @@
+1.Proxy Design Pattern
+https://notebook.zohopublic.in/public/notes/74tdo33c5b7060d544b1c986e519dd3ba4d1b
+2. Adapter Design Pattern - Weight Machine
+3. Bridge Design Pattern - Breathe
+4. Composite Design Pattern - Tree like structure eg FileSystem to remove instance of
+5. Decorator - Base Pizza + ToppingDecorator
+6. FlyWeight Pattern - Memory Optimization Game and Word Text Editor
+7. Facade Design Pattern
+
+
+All Structural Design Patterns
+https://notebook.zohopublic.in/public/notes/74tdo33c5b7060d544b1c986e519dd3ba4d1b

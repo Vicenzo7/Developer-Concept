@@ -1,0 +1,5 @@
+LLD : Online Auction System using LLD
+
+https://notebook.zohopublic.in/public/notes/bietvc07e6ecf28d7409286145c16e623f9ed
+
+The above notes has UML diagram

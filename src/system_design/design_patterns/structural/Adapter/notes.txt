@@ -1,0 +1,14 @@
+2. Adapter Design Pattern
+
+Adapter Design Pattern is bridge between existing interface and expected interface
+
+Question:
+1. What you are going to do if you are getting request or response which is different from
+what you wanted -> use Adapter design pattern
+
+2. Design a weight machine that calculates weight in pounds and use adapter design pattern
+to convert that into kg
+
+
+eg: my mobile need type c for charging, but I have type micro, so I need an adapter
+to convert micro to type c

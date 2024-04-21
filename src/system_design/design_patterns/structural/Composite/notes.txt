@@ -1,0 +1,16 @@
+Composite Design Pattern
+Design File System/ Design Calculator
+
+Composite Design Pattern comes into picture when there is Object inside an object
+
+1.For Example We are designing a file system
+
+file system can have file or directory.
+Directory can have files or directory.
+
+So the above can go on, it becomes a tree like structure
+
+2. Build a calculator with arithmetic expression
+
+=> 2 * (1+7)
+so this is also tree like structure

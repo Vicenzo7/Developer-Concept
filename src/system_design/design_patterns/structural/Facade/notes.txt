@@ -1,0 +1,44 @@
+Facade Design Patter
+
+When to use?
+When we want to hide the system complexity from the client.
+
+Client can talk to the system via facade layer or directly, we should not force
+client to talk with the system through facade only.
+
+
+Suppose we have a facade layer which exposes the method to create order
+
+And to create order we need multiple things (product,payment,invoice etc...)
+
+So the client can call the facade layer to create order or can manually create order
+but to manually create he must know the process.
+
+Disadvantage here is, if suppose in future the order creation logic changes and
+client does not this it will be an issue, that's the reason facade layer is used.
+
+There can also be facade using another facade.
+
+Like order facade talking with payment facade to do the payment logic.
+
+
+Facade vs Proxy
+
+In Proxy
+client class the proxy and proxy in turn calls the actual object
+So Proxy takes care of a particular object(single object)
+example employeeDaoProxy takes care of employeeDaoImp
+example orderDaoProxy takes care of orderDaoImp
+
+Whereas facade takes care of a entire flow
+
+
+Facade vs Adapter
+
+In adapter,
+The client and the interface are in-compatible that's the reason the adapter is used
+to communicate between client and interface.
+
+But that's not true in facade, client and interface can talk and are compatible
+but client needs to know the entire logic and also must be notified if logic
+changes, in that case facade is used

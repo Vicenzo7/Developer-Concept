@@ -1,0 +1,12 @@
+https://notebook.zohopublic.in/public/notes/74tdo731a02767be840f4a81c55515cc3c8f0
+
+Memento Design Pattern
+
+Why it is required and when to use
+- Provides an ability to revert an object to a previous state i.e. UNDO capability
+and
+- Does not expose the objects internal implementation
+
+Also called as Snapshot design Pattern
+
+More details in the pdf link

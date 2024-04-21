@@ -1,0 +1,37 @@
+Decorator Design Pattern
+
+Use case
+1.Pizza-Shop
+
+You can decorate base pizza
+
+((base pizza) + cheese)
+(((base pizza) + cheese) + mushroom)
+((((base pizza) + cheese) + mushroom) + cheese)
+
+
+Why we need decorator pattern
+-> To prevent class explosion
+
+Example we have a class base pizza
+
+Now this class will be extended by cheese so base pizza + cheese
+Now this class will be extended by mushroom so base pizza + cheese + mushroom
+
+So we have to create multiple class also remember, toppings can be used with
+permutation and combination.. so that many classes
+
+A class explosion occurs when a software system has a large number of classes,
+often beyond what was originally anticipated or well-structured.
+
+
+Note:
+
+1.The object which we get after decorating the base object, that object can also be
+further decorated.
+2.Decorator is has-a and also is-a relationship with the base.
+
+Question
+Design Coffee Machine
+
+There is a pizza and there can be multiple toppings, so give me the cost of pizza

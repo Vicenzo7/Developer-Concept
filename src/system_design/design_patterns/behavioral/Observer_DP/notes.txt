@@ -1,0 +1,5 @@
+https://notebook.zohopublic.in/public/notes/bietvc07e6ecf28d7409286145c16e623f9ed
+
+Question: Implement Notify me feature of amazon
+
+If a product in amazon is out of stock and we click notify me, implement this feature.

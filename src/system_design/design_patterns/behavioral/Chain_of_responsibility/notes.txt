@@ -1,0 +1,20 @@
+Chain of Responsibility Design Pattern
+
+Usage: Real time application usage
+1. ATM machine / Any Vending Machine
+2. Design Logger
+
+What is Chain of Responsibility Design Pattern
+
+When the client send request and he does not know who will fulfill its request
+
+Example I ask 2000 rs from the atm machine and atm machine has 3 handlers
+
+1. 2000 rs handler
+2. 500 rs handler
+3. 100 rs handler
+
+
+request will go to 2000 rs handler, but 2000 rs cannot fulfill this request,
+so it sends this request to 500 rs handler, but 500 can fulfill only 1500 as it has
+3 notes of 500 so it sends 500 rs request to 100rs handler

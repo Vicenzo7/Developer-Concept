@@ -1,0 +1,7 @@
+1.Proxy
+https://notebook.zohopublic.in/public/notes/74tdo33c5b7060d544b1c986e519dd3ba4d1b
+
+Where do we use Proxy
+
+1. In Access restriction of specific websites
+2. Caching

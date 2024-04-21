@@ -1,0 +1,15 @@
+Bridge Design Pattern
+
+Bridge Design Pattern decouples an abstraction from its implementation so that the two
+can vary independently
+
+
+Bridge pattern and Strategy pattern are exactly same, the difference is in the intent
+
+Strategy pattern is used when two child classes have same functionality but this functionality
+is not present with parent.
+
+Also change the behaviour of the object at run time
+
+and Bridge pattern is used to decouple abstraction from its implementation so that
+both can grow independently

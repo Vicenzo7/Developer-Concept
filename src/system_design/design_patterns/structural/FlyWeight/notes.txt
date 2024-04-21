@@ -1,0 +1,19 @@
+Fly Weight Design Pattern
+This pattern helps to reduce memory usage by sharing data among multiple objects.
+
+Two Important Interview Questions
+- Design Word Processor i.e. text editor
+- Design Game
+
+Observe and understand when to use this pattern
+- When memory is limited
+- When objects share data
+    - Intrinsic data: shared among object and remain same once defined one value.
+    - Extrinsic data: changes based on client input and differs from one another.
+- Creation of object is expensive.
+
+This is how we solve the issue
+- From object remove all extrinsic data and keep intrinsic data(this object is called FlyWeight Object)
+- This Flyweight class can be immutable
+- Extrinsic Data can be passed to FlyWeight class in method parameters.
+- Once the Flyweight object is created it can be cached and reused whenever required
