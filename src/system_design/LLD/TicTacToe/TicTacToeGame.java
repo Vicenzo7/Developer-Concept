@@ -54,7 +54,7 @@ public class TicTacToeGame {
             // place the piece
             boolean pieceAddedSuccessfully = gameBoard.addPiece(inputRow, inputColumn, playerTurn.getPlayingPiece());
             if (!pieceAddedSuccessfully) {
-                // player cannot insert the piece int0 this cell, player had to choose another cell
+                // player cannot insert the piece into this cell, player had to choose another cell
                 System.out.println("Incorrect position chosen, try again");
                 players.addFirst(playerTurn);
                 continue;

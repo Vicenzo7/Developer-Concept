@@ -11,7 +11,7 @@ import java.util.List;
 
 public class Main {
 
-    public static void main(String args[]){
+    public static void main(String[] args){
         Main mainObj = new Main();
 
         //1. create warehouses in the system

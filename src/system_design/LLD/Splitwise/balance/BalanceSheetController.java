@@ -29,12 +29,6 @@ public class BalanceSheetController {
 
                 Balance userOweBalance = paidByUserExpenseSheet.getUserVsBalance()
                         .computeIfAbsent(userOwe.getUserId(), k-> new Balance());
-//                if (paidByUserExpenseSheet.getUserVsBalance().containsKey(userOwe.getUserId())) {
-//                    userOweBalance = paidByUserExpenseSheet.getUserVsBalance().get(userOwe.getUserId());
-//                } else {
-//                    userOweBalance = new Balance();
-//                    paidByUserExpenseSheet.getUserVsBalance().put(userOwe.getUserId(), userOweBalance);
-//                }
 
                 userOweBalance.setAmountGetBack(userOweBalance.getAmountGetBack() + oweAmount);
 
@@ -45,12 +39,7 @@ public class BalanceSheetController {
 
                 Balance userPaidBalance = oweUserExpenseSheet.getUserVsBalance()
                         .computeIfAbsent(expensePaidBy.getUserId(), k-> new Balance());
-//                if (oweUserExpenseSheet.getUserVsBalance().containsKey(expensePaidBy.getUserId())) {
-//                    userPaidBalance = oweUserExpenseSheet.getUserVsBalance().get(expensePaidBy.getUserId());
-//                } else {
-//                    userPaidBalance = new Balance();
-//                    oweUserExpenseSheet.getUserVsBalance().put(expensePaidBy.getUserId(), userPaidBalance);
-//                }
+
                 userPaidBalance.setAmountOwe(userPaidBalance.getAmountOwe() + oweAmount);
             }
         }
