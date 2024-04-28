@@ -25,7 +25,7 @@ Like order facade talking with payment facade to do the payment logic.
 Facade vs Proxy
 
 In Proxy
-client class the proxy and proxy in turn calls the actual object
+client calls the proxy and proxy in turn calls the actual object
 So Proxy takes care of a particular object(single object)
 example employeeDaoProxy takes care of employeeDaoImp
 example orderDaoProxy takes care of orderDaoImp

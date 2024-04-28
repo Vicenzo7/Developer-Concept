@@ -25,13 +25,12 @@
 ### Interpreter Design Pattern
     Defines grammer for interpreting and evaluating expression.
 
-### State Design Pattern
-    Allows an object to change it behaviour when it's internal state changes.
-
-
 ### Observer Design Pattern
     In this an object(Observable) maintains a list of of it's dependant's(Observer) and notifies
     them of any change in state.
+
+### State Design Pattern
+    Allows an object to change it behaviour when it's internal state changes.
 
 ### Memento Design Pattern
     Provides an ability to revert object to a previous state, i.e undo capability and it does not

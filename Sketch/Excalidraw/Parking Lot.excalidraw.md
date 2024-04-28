@@ -5822,10 +5822,10 @@ Exit Gate ^YoGrnOkN
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "triangle",
-		"scrollX": 1385.1150202514477,
-		"scrollY": -1002.3997672086992,
+		"scrollX": 2599.5205036569323,
+		"scrollY": -447.9259441567508,
 		"zoom": {
-			"value": 0.6
+			"value": 0.25
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,

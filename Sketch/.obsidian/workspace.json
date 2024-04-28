@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dffb8b2e1da1d4ed",
+        "id": "d6a868a8b3dde9cc",
         "type": "tabs",
         "children": [
           {
-            "id": "eac715a6b901488a",
+            "id": "59ae40d0ab8dac06",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Book My Show.excalidraw.md"
+                "file": "Excalidraw/Parking Lot.excalidraw.md"
               }
             }
           }
@@ -67,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352.5
+    "width": 352.5,
+    "collapsed": true
   },
   "right": {
     "id": "f3fb9adabaa5b8d7",
@@ -83,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Book My Show.excalidraw.md",
+                "file": "Excalidraw/Parking Lot.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Book My Show.excalidraw.md",
+                "file": "Excalidraw/Parking Lot.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Book My Show.excalidraw.md"
+                "file": "Excalidraw/Parking Lot.excalidraw.md"
               }
             }
           }
@@ -145,8 +146,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "eac715a6b901488a",
+  "active": "59ae40d0ab8dac06",
   "lastOpenFiles": [
+    "Excalidraw/Book My Show.excalidraw.md",
     "Excalidraw/ATM.excalidraw.md",
     "Excalidraw/Elevator System.excalidraw.md",
     "Excalidraw/Tic Tac Toe.excalidraw.md",
@@ -168,7 +170,6 @@
     "Excalidraw/Cricbuzz.excalidraw.md",
     "Excalidraw/Cricbuzz.png",
     "Excalidraw/Cricbuzz.excalidraw.png",
-    "Excalidraw/Book My Show.excalidraw.md",
     "Excalidraw/Book My Show.excalidraw.png",
     "Excalidraw/Mediator Design Pattern.excalidraw.md",
     "Excalidraw/Drawing 2024-04-12 08.21.32.excalidraw.md",
