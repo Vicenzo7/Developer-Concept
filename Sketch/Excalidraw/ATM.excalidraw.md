@@ -133,7 +133,7 @@ Card ^iv1zFBsI
 BankAccount ^KyLZvAh5
 
 Card card;
-UserBankAccount; account; ^YhwP6MRu
+UserBankAccount account; ^YhwP6MRu
 
 int cardNumber;
 int cvv;
@@ -2881,8 +2881,8 @@ abstract ^UEyXrykW
 		},
 		{
 			"type": "text",
-			"version": 153,
-			"versionNonce": 1259242076,
+			"version": 154,
+			"versionNonce": 295559690,
 			"isDeleted": false,
 			"id": "YhwP6MRu",
 			"fillStyle": "solid",
@@ -2895,24 +2895,24 @@ abstract ^UEyXrykW
 			"y": 2499.4407157473665,
 			"strokeColor": "#f08c00",
 			"backgroundColor": "transparent",
-			"width": 292.96875,
+			"width": 281.25,
 			"height": 48,
 			"seed": 1237471404,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714283348707,
+			"updated": 1714806393751,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 3,
-			"text": "Card card;\nUserBankAccount; account;",
-			"rawText": "Card card;\nUserBankAccount; account;",
+			"text": "Card card;\nUserBankAccount account;",
+			"rawText": "Card card;\nUserBankAccount account;",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Card card;\nUserBankAccount; account;",
+			"originalText": "Card card;\nUserBankAccount account;",
 			"lineHeight": 1.2
 		},
 		{
@@ -4143,7 +4143,7 @@ abstract ^UEyXrykW
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1714283348708,
 			"link": null,
 			"locked": false,
@@ -4157,10 +4157,7 @@ abstract ^UEyXrykW
 				"focus": 0.4424892911408926,
 				"gap": 22.66174828605517
 			},
-			"lastCommittedPoint": [
-				116.36363636363637,
-				-221.81818181818198
-			],
+			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": "triangle_outline",
 			"points": [
@@ -4196,7 +4193,7 @@ abstract ^UEyXrykW
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1714283348708,
 			"link": null,
 			"locked": false,
@@ -4246,7 +4243,7 @@ abstract ^UEyXrykW
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1714283348708,
 			"link": null,
 			"locked": false,
@@ -4292,7 +4289,7 @@ abstract ^UEyXrykW
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1714283348708,
 			"link": null,
 			"locked": false,
@@ -4338,7 +4335,7 @@ abstract ^UEyXrykW
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1714283348708,
 			"link": null,
 			"locked": false,
@@ -4348,10 +4345,7 @@ abstract ^UEyXrykW
 				"focus": 0.4383559982637453,
 				"gap": 1
 			},
-			"lastCommittedPoint": [
-				200,
-				-232.5
-			],
+			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": "triangle_outline",
 			"points": [
@@ -4397,10 +4391,7 @@ abstract ^UEyXrykW
 				"focus": 0.2045508127358199,
 				"gap": 3.467605109564829
 			},
-			"lastCommittedPoint": [
-				-262.4999999999999,
-				-230
-			],
+			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": "triangle_outline",
 			"points": [
@@ -4450,10 +4441,7 @@ abstract ^UEyXrykW
 				"focus": 0.04584777460581724,
 				"gap": 3.467605109564829
 			},
-			"lastCommittedPoint": [
-				-530,
-				-220
-			],
+			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": "triangle_outline",
 			"points": [
@@ -4533,10 +4521,10 @@ abstract ^UEyXrykW
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "triangle_outline",
-		"scrollX": 800.1473556980471,
-		"scrollY": -1519.2598098951303,
+		"scrollX": 1727.952929381329,
+		"scrollY": -2264.3343390838,
 		"zoom": {
-			"value": 0.39999999999999974
+			"value": 0.9500000000000003
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
