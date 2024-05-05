@@ -22,7 +22,7 @@ public class Main {
         List<User> userList = new ArrayList<>();
         userList.add(mainObj.createUser());
 
-        //3. feed the system with the initial informations
+        //3. feed the system with the initial information
         ProductDeliverySystem productDeliverySystem = new ProductDeliverySystem(userList, warehouseList);
 
 
