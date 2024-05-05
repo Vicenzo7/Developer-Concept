@@ -232,7 +232,8 @@ String teamName;
 Queue<Player> playing11;
 List<Player> extraPlayers;
 PlayerBattingController playerBattingController;
-PlayerBowlingController playerBowlingController; ^ogiUU6Jr
+PlayerBowlingController playerBowlingController;
+boolean isWinner; ^ogiUU6Jr
 
 Player ^6vpJXxE6
 
@@ -317,8 +318,8 @@ List<Over> overs; ^Qbsmx4jv
 
 Over ^oWoiSkbX
 
-int overNumber();
-List<Bowl> bowl; ^Pr0mvvJD
+int overNumber;
+List<Ball> balls; ^Pr0mvvJD
 
 +startOver() ^HXWzSKJD
 
@@ -4659,8 +4660,8 @@ Observer Design Pattern ^rB14jT4r
 		},
 		{
 			"type": "text",
-			"version": 380,
-			"versionNonce": 1770623588,
+			"version": 398,
+			"versionNonce": 187637429,
 			"isDeleted": false,
 			"id": "ogiUU6Jr",
 			"fillStyle": "solid",
@@ -4674,23 +4675,23 @@ Observer Design Pattern ^rB14jT4r
 			"strokeColor": "#f08c00",
 			"backgroundColor": "transparent",
 			"width": 562.5,
-			"height": 120,
+			"height": 144,
 			"seed": 807374773,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714289652430,
+			"updated": 1714891521008,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 3,
-			"text": "String teamName;\nQueue<Player> playing11;\nList<Player> extraPlayers;\nPlayerBattingController playerBattingController;\nPlayerBowlingController playerBowlingController;",
-			"rawText": "String teamName;\nQueue<Player> playing11;\nList<Player> extraPlayers;\nPlayerBattingController playerBattingController;\nPlayerBowlingController playerBowlingController;",
+			"text": "String teamName;\nQueue<Player> playing11;\nList<Player> extraPlayers;\nPlayerBattingController playerBattingController;\nPlayerBowlingController playerBowlingController;\nboolean isWinner;",
+			"rawText": "String teamName;\nQueue<Player> playing11;\nList<Player> extraPlayers;\nPlayerBattingController playerBattingController;\nPlayerBowlingController playerBowlingController;\nboolean isWinner;",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "String teamName;\nQueue<Player> playing11;\nList<Player> extraPlayers;\nPlayerBattingController playerBattingController;\nPlayerBowlingController playerBowlingController;",
+			"originalText": "String teamName;\nQueue<Player> playing11;\nList<Player> extraPlayers;\nPlayerBattingController playerBattingController;\nPlayerBowlingController playerBowlingController;\nboolean isWinner;",
 			"lineHeight": 1.2
 		},
 		{
@@ -6635,8 +6636,8 @@ Observer Design Pattern ^rB14jT4r
 		},
 		{
 			"type": "text",
-			"version": 469,
-			"versionNonce": 1133758044,
+			"version": 486,
+			"versionNonce": 1630069141,
 			"isDeleted": false,
 			"id": "Pr0mvvJD",
 			"fillStyle": "solid",
@@ -6656,17 +6657,17 @@ Observer Design Pattern ^rB14jT4r
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714289652431,
+			"updated": 1714890417844,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 3,
-			"text": "int overNumber();\nList<Bowl> bowl;",
-			"rawText": "int overNumber();\nList<Bowl> bowl;",
+			"text": "int overNumber;\nList<Ball> balls;",
+			"rawText": "int overNumber;\nList<Ball> balls;",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "int overNumber();\nList<Bowl> bowl;",
+			"originalText": "int overNumber;\nList<Ball> balls;",
 			"lineHeight": 1.2
 		},
 		{
@@ -7934,10 +7935,10 @@ Observer Design Pattern ^rB14jT4r
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": "triangle_outline",
 		"currentItemEndArrowhead": null,
-		"scrollX": 1004.8315845779113,
-		"scrollY": -2768.071249304469,
+		"scrollX": 566.5556660519953,
+		"scrollY": -2167.891526249745,
 		"zoom": {
-			"value": 0.35
+			"value": 0.44999999999999996
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,

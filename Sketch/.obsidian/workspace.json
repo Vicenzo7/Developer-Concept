@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Book My Show.excalidraw.md"
+                "file": "Excalidraw/Cricbuzz.excalidraw.md"
               }
             }
           }
@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352.5,
-    "collapsed": true
+    "width": 352.5
   },
   "right": {
     "id": "f3fb9adabaa5b8d7",
@@ -84,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Book My Show.excalidraw.md",
+                "file": "Excalidraw/Cricbuzz.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Book My Show.excalidraw.md",
+                "file": "Excalidraw/Cricbuzz.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Book My Show.excalidraw.md"
+                "file": "Excalidraw/Cricbuzz.excalidraw.md"
               }
             }
           }
@@ -148,6 +147,7 @@
   },
   "active": "d2728c9de1e89bec",
   "lastOpenFiles": [
+    "Excalidraw/Book My Show.excalidraw.md",
     "Excalidraw/ATM.excalidraw.md",
     "Excalidraw/Elevator System.excalidraw.md",
     "Excalidraw/Tic Tac Toe.excalidraw.md",
@@ -160,7 +160,6 @@
     "Excalidraw/Snake n Ladder.excalidraw.md",
     "Excalidraw/Cricbuzz.excalidraw.md",
     "Excalidraw/Mediator Design Pattern.excalidraw.md",
-    "Excalidraw/Book My Show.excalidraw.md",
     "Excalidraw/Null Object Design Pattern.excalidraw.md",
     "Excalidraw/Car Rental System.png",
     "Excalidraw/Car Rental System.excalidraw.png",
