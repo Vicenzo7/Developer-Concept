@@ -17,7 +17,7 @@ public class Main {
         Library library = new Library(books);
         Iterator<Book> iterator = library.createIterator();
         while (iterator.hasNext()) {
-            Book book = (Book) iterator.next();
+            Book book = iterator.next();
             System.out.println(book);
         }
 
@@ -26,7 +26,7 @@ public class Main {
         LibraryReverse libraryReverse = new LibraryReverse(books);
         iterator = libraryReverse.createIterator();
         while (iterator.hasNext()) {
-            Book book = (Book) iterator.next();
+            Book book = iterator.next();
             System.out.println(book);
         }
 

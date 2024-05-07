@@ -18,6 +18,9 @@ public class MyMap<K, V> {
         int hashcode = key.hashCode();
         int index = getIndex(key);
         LinkedList<Entry<K, V>> bucket = buckets[index];
+        if(bucket.isEmpty()) {
+            bucket.add(new Entry<>(key, value, hashcode));
+        }
         for (Entry<K, V> entry : bucket) {
             if (entry.getHashCode() == hashcode) {
                 if (entry.getKey().equals(key)) {
