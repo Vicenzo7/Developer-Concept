@@ -5,6 +5,7 @@ import java.util.Map;
 
 public class Cart {
 
+    int cartId;
     Map<Integer, Integer> productCategoryIdVsCountMap;
 
     Cart(){

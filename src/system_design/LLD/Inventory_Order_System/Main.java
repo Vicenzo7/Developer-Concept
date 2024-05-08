@@ -1,7 +1,6 @@
 package system_design.LLD.Inventory_Order_System;
 
 import system_design.LLD.Inventory_Order_System.order.Order;
-import system_design.LLD.Inventory_Order_System.payment.ProductDeliverySystem;
 import system_design.LLD.Inventory_Order_System.user.Address;
 import system_design.LLD.Inventory_Order_System.user.User;
 import system_design.LLD.Inventory_Order_System.warehouse.*;

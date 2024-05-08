@@ -1,4 +1,4 @@
-package system_design.LLD.Inventory_Order_System.payment;
+package system_design.LLD.Inventory_Order_System;
 
 import system_design.LLD.Inventory_Order_System.user.Cart;
 import system_design.LLD.Inventory_Order_System.user.User;
