@@ -10,6 +10,8 @@ public class Student {
     private String motherName;
     private List<String> subjects;
 
+    private Student() {
+    }
 
     static class StudentBuilder {
         private Student student = new Student();

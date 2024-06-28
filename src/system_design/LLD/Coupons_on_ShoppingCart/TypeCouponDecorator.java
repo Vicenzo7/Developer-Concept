@@ -1,4 +1,4 @@
-package system_design.LLD.Coupons_on_ShoppinCart;
+package system_design.LLD.Coupons_on_ShoppingCart;
 
 import java.util.HashSet;
 import java.util.Set;

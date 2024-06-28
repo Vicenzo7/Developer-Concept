@@ -15,7 +15,8 @@ So the client can call the facade layer to create order or can manually create o
 but to manually create he must know the process.
 
 Disadvantage here is, if suppose in future the order creation logic changes and
-client does not this it will be an issue, that's the reason facade layer is used.
+client does not know the new process this it will be an issue,
+that's the reason facade layer is used.
 
 There can also be facade using another facade.
 

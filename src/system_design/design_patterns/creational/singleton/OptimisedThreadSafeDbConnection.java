@@ -9,11 +9,12 @@ public class OptimisedThreadSafeDbConnection {
 
     private static OptimisedThreadSafeDbConnection threadSafeDbConnection;
 
-    private OptimisedThreadSafeDbConnection() {}
+    private OptimisedThreadSafeDbConnection() {
+    }
 
-    public OptimisedThreadSafeDbConnection getInstance() {
+    static public OptimisedThreadSafeDbConnection getInstance() {
         if (threadSafeDbConnection == null) {
-            synchronized (this) {
+            synchronized (OptimisedThreadSafeDbConnection.class) {
                 if (threadSafeDbConnection == null) {
                     threadSafeDbConnection = new OptimisedThreadSafeDbConnection();
                 }

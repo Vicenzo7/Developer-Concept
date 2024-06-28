@@ -1,4 +1,4 @@
-package system_design.LLD.Coupons_on_ShoppinCart;
+package system_design.LLD.Coupons_on_ShoppingCart;
 
 public class Item1 extends Product{
 

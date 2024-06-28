@@ -2,7 +2,7 @@ package system_design.design_patterns.creational.abstractFactory;
 
 public class AbstractFactoryProducer {
 
-    public  AbstractFactory getFactory(String factoryName) {
+    public AbstractFactory getFactory(String factoryName) {
         if (factoryName.equals("Economy")) {
             return new EconomicCarFactory();
         }

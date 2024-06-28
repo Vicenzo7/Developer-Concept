@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "893bc0c35a2f8623",
+        "id": "918ed03685784d82",
         "type": "tabs",
         "children": [
           {
-            "id": "b7b7ecde80b7293f",
+            "id": "dc6564f47dafb608",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Food Delivery System.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -63,12 +61,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 352.5,
-    "collapsed": true
+    "width": 352.5
   },
   "right": {
     "id": "f3fb9adabaa5b8d7",
@@ -84,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Food Delivery System.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Food Delivery System.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/Food Delivery System.excalidraw.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,23 +140,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b7b7ecde80b7293f",
+  "active": "adecd3233f46dced",
   "lastOpenFiles": [
-    "Excalidraw/Food Delivery System.excalidraw.md",
+    "2024-06-11.md",
+    "Untitled.canvas",
+    "Excalidraw/Drawing 2024-06-11 07.38.46.excalidraw.md",
     "Excalidraw/Hotel Booking System.excalidraw.md",
-    "Excalidraw/Flight Booking System.excalidraw.md",
+    "Excalidraw/Book My Show.excalidraw.md",
     "Excalidraw/Car Rental System.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-08 15.21.41.excalidraw.md",
+    "Excalidraw/Food Delivery System.excalidraw.md",
+    "Excalidraw/Flight Booking System.excalidraw.md",
     "Excalidraw/Coupon Application.excalidraw.md",
     "Excalidraw/Order Management System.excalidraw.md",
     "Excalidraw/Snake n Ladder.excalidraw.md",
     "Excalidraw/Cricbuzz.excalidraw.md",
-    "Excalidraw/Book My Show.excalidraw.md",
     "Excalidraw/ATM.excalidraw.md",
     "Excalidraw/Elevator System.excalidraw.md",
     "Excalidraw/Tic Tac Toe.excalidraw.md",
     "Excalidraw/Splitwise.excalidraw.md",
-    "Excalidraw/Splitwise.excalidraw.png",
     "Excalidraw/Parking Lot.excalidraw.md",
+    "Excalidraw/Splitwise.excalidraw.png",
     "Excalidraw/Mediator Design Pattern.excalidraw.md",
     "Excalidraw/Null Object Design Pattern.excalidraw.md",
     "Excalidraw/Car Rental System.png",
