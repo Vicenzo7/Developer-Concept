@@ -20,6 +20,7 @@ public class MyMap<K, V> {
         LinkedList<Entry<K, V>> bucket = buckets[index];
         if(bucket.isEmpty()) {
             bucket.add(new Entry<>(key, value, hashcode));
+            return;
         }
         for (Entry<K, V> entry : bucket) {
             if (entry.getHashCode() == hashcode) {
