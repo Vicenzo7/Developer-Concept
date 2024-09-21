@@ -2,6 +2,6 @@ package system_design.design_patterns.behavioral.Iterator;
 
 import java.util.Iterator;
 
-public interface Aggregate {
+public interface BookAggregate {
     Iterator<Book> createIterator();
 }

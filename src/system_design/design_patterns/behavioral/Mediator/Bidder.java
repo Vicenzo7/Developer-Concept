@@ -17,9 +17,9 @@ public class Bidder implements Colleague {
     }
 
     @Override
-    public void receiveBidNotification(String name, int bidAmount) {
+    public void receiveBidNotification(String bidderName, int bidAmount) {
         System.out.println("Bidder : " + this.name + " received Notification");
-        System.out.println(name + " has placed " + bidAmount + " bids");
+        System.out.println(bidderName + " has placed " + bidAmount + " bids");
         System.out.println();
     }
 

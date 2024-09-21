@@ -4,7 +4,7 @@ public interface Colleague {
 
     void placeBid(int bidAmount);
 
-    void receiveBidNotification(String name, int bidAmount);
+    void receiveBidNotification(String bidderName, int bidAmount);
 
     String getName();
 }

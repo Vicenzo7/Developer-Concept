@@ -3,7 +3,7 @@ package system_design.design_patterns.behavioral.Iterator;
 import java.util.Iterator;
 import java.util.List;
 
-public class LibraryReverse implements Aggregate {
+public class LibraryReverse implements BookAggregate {
 
     List<Book> books;
 

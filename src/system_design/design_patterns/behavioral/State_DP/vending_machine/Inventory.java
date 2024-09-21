@@ -12,20 +12,6 @@ public class Inventory {
         return itemShelves;
     }
 
-    public void setItemShelves(ItemShelf[] itemShelves) {
-        this.itemShelves = itemShelves;
-    }
-
-    public void initialEmptyInventory() {
-        int startCode = 101;
-        for (int i = 0; i < itemShelves.length; i++) {
-            ItemShelf space = new ItemShelf();
-            space.setCode(startCode);
-            space.setSoldOut(true);
-            itemShelves[i]= space;
-            startCode++;
-        }
-    }
 
     public void addItem(Item item, int productCode) {
         for (ItemShelf itemShelf : itemShelves) {

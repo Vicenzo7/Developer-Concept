@@ -22,7 +22,7 @@ public class DispenseState implements State {
 
     @Override
     public void clickOnStartProductSelectionButton(VendingMachine vendingMachine) throws Exception {
-        throw new Exception("product selection buttion can not be clicked in Dispense state");
+        throw new Exception("product selection button can not be clicked in Dispense state");
     }
 
     @Override

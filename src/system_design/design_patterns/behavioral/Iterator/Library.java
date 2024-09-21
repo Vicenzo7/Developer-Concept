@@ -3,7 +3,7 @@ package system_design.design_patterns.behavioral.Iterator;
 import java.util.Iterator;
 import java.util.List;
 
-public class Library implements Aggregate {
+public class Library implements BookAggregate {
 
     List<Book> books;
 
