@@ -23,16 +23,4 @@ public class AirConditioner {
         this.temperature -= 1;
         System.out.println("Current temperature: " + temperature);
     }
-
-    public boolean isTurnOn() {
-        return turnOn;
-    }
-
-    public void setTurnOn(boolean turnOn) {
-        this.turnOn = turnOn;
-    }
-
-    public int getTemperature() {
-        return temperature;
-    }
 }
