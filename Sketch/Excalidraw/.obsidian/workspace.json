@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d666515e5aebfc43",
+        "id": "41417b67a5123779",
         "type": "tabs",
         "children": [
           {
-            "id": "e60551d4a77e511b",
+            "id": "4d9b6fb8d1958ae6",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "ATM.excalidraw.md"
+                "file": "Snake n Ladder.excalidraw.md"
               }
             }
           }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ATM.excalidraw.md",
+                "file": "Snake n Ladder.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ATM.excalidraw.md",
+                "file": "Snake n Ladder.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ATM.excalidraw.md"
+                "file": "Snake n Ladder.excalidraw.md"
               }
             }
           }
@@ -146,8 +146,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e60551d4a77e511b",
+  "active": "4d9b6fb8d1958ae6",
   "lastOpenFiles": [
+    "Cricbuzz.excalidraw.md",
+    "Book My Show.excalidraw.md",
+    "ATM.excalidraw.md",
     "Elevator System.excalidraw.md",
     "Tic Tac Toe.excalidraw.md",
     "Splitwise.excalidraw.md",
@@ -155,9 +158,7 @@
     "Car Rental System.excalidraw.md",
     "Parking Lot.excalidraw.md",
     "State Design Pattern.excalidraw.md",
-    "Book My Show.excalidraw.md",
     "interview-parking-lot.excalidraw.md",
-    "ATM.excalidraw.md",
     "Excalidraw/Drawing 2024-07-01 15.02.37.excalidraw.md",
     "Excalidraw/Drawing 2024-07-01 15.28.16.excalidraw.md",
     "Excalidraw/Drawing 2024-07-01 15.28.16.excalidraw.png",
@@ -167,7 +168,6 @@
     "Food Delivery System.excalidraw.md",
     "Coupon Application.excalidraw.md",
     "Order Management System.excalidraw.md",
-    "Snake n Ladder.excalidraw.md",
-    "Cricbuzz.excalidraw.md"
+    "Snake n Ladder.excalidraw.md"
   ]
 }

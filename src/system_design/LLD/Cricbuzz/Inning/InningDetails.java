@@ -20,12 +20,12 @@ public class InningDetails {
         overs = new ArrayList<>();
     }
 
-    public void start(int runsToWin){
+    public void start(int runsToWin) {
 
         //set batting players
         try {
             battingTeam.chooseNextBatsMan();
-        }catch (Exception e) {
+        } catch (Exception e) {
 
         }
 
@@ -38,11 +38,11 @@ public class InningDetails {
             OverDetails over = new OverDetails(overNumber, bowlingTeam.getCurrentBowler());
             overs.add(over);
             try {
-               boolean won = over.startOver(battingTeam, bowlingTeam, runsToWin);
-               if(won == true) {
-                   break;
-               }
-            }catch (Exception e) {
+                boolean won = over.startOver(battingTeam, bowlingTeam, runsToWin);
+                if (won == true) {
+                    break;
+                }
+            } catch (Exception e) {
                 break;
             }
 
@@ -53,7 +53,7 @@ public class InningDetails {
         }
     }
 
-    public int getTotalRuns(){
-       return battingTeam.getTotalRuns();
+    public int getTotalRuns() {
+        return battingTeam.getTotalRuns();
     }
 }

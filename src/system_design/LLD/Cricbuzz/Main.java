@@ -30,17 +30,17 @@ public class Main {
 
         Queue<PlayerDetails> playerDetails = new LinkedList<>();
 
-        PlayerDetails p1 = addPlayer(name+"1", PlayerType.ALLROUNDER);
-        PlayerDetails p2 = addPlayer(name+"2", PlayerType.ALLROUNDER);
-        PlayerDetails p3 = addPlayer(name+"3", PlayerType.ALLROUNDER);
-        PlayerDetails p4 = addPlayer(name+"4", PlayerType.ALLROUNDER);
-        PlayerDetails p5 = addPlayer(name+"5", PlayerType.ALLROUNDER);
-        PlayerDetails p6 = addPlayer(name+"6", PlayerType.ALLROUNDER);
-        PlayerDetails p7 = addPlayer(name+"7", PlayerType.ALLROUNDER);
-        PlayerDetails p8 = addPlayer(name+"8", PlayerType.ALLROUNDER);
-        PlayerDetails p9 = addPlayer(name+"9", PlayerType.ALLROUNDER);
-        PlayerDetails p10 = addPlayer(name+"10", PlayerType.ALLROUNDER);
-        PlayerDetails p11 = addPlayer(name+"11", PlayerType.ALLROUNDER);
+        PlayerDetails p1 = addPlayer(name+"1", PlayerType.ALL_ROUNDER);
+        PlayerDetails p2 = addPlayer(name+"2", PlayerType.ALL_ROUNDER);
+        PlayerDetails p3 = addPlayer(name+"3", PlayerType.ALL_ROUNDER);
+        PlayerDetails p4 = addPlayer(name+"4", PlayerType.ALL_ROUNDER);
+        PlayerDetails p5 = addPlayer(name+"5", PlayerType.ALL_ROUNDER);
+        PlayerDetails p6 = addPlayer(name+"6", PlayerType.ALL_ROUNDER);
+        PlayerDetails p7 = addPlayer(name+"7", PlayerType.ALL_ROUNDER);
+        PlayerDetails p8 = addPlayer(name+"8", PlayerType.ALL_ROUNDER);
+        PlayerDetails p9 = addPlayer(name+"9", PlayerType.ALL_ROUNDER);
+        PlayerDetails p10 = addPlayer(name+"10", PlayerType.ALL_ROUNDER);
+        PlayerDetails p11 = addPlayer(name+"11", PlayerType.ALL_ROUNDER);
 
         playerDetails.add(p1);
         playerDetails.add(p2);

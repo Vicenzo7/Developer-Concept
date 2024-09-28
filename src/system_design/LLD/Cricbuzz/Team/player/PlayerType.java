@@ -6,6 +6,6 @@ public enum PlayerType {
     BOWLER,
     WICKETKEEPER,
     CAPTAIN,
-    ALLROUNDER;
+    ALL_ROUNDER;
 }
 

@@ -11,7 +11,6 @@ public class Game {
     Player winner;
 
     public Game() {
-
         initializeGame();
     }
 
@@ -49,7 +48,6 @@ public class Game {
             System.out.println("player turn is:" + playerTurn.id + " new Position is: " + playerNewPosition);
             //check for winning condition
             if (playerNewPosition >= board.cells.length * board.cells.length - 1) {
-
                 winner = playerTurn;
             }
 
