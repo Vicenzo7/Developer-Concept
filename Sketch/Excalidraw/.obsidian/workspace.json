@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ecb3865eecedd118",
+        "id": "d666515e5aebfc43",
         "type": "tabs",
         "children": [
           {
-            "id": "5fbed09eeec8374b",
+            "id": "e60551d4a77e511b",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "tiny-url.excalidraw.md"
+                "file": "ATM.excalidraw.md"
               }
             }
           }
@@ -67,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "922bdcb742f8c124",
@@ -83,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tiny-url.excalidraw.md",
+                "file": "ATM.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tiny-url.excalidraw.md",
+                "file": "ATM.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tiny-url.excalidraw.md"
+                "file": "ATM.excalidraw.md"
               }
             }
           }
@@ -145,26 +146,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5fbed09eeec8374b",
+  "active": "e60551d4a77e511b",
   "lastOpenFiles": [
-    "interview-parking-lot.excalidraw.md",
+    "Elevator System.excalidraw.md",
+    "Tic Tac Toe.excalidraw.md",
+    "Splitwise.excalidraw.md",
+    "tiny-url.excalidraw.md",
     "Car Rental System.excalidraw.md",
-    "ATM.excalidraw.md",
+    "Parking Lot.excalidraw.md",
+    "State Design Pattern.excalidraw.md",
     "Book My Show.excalidraw.md",
+    "interview-parking-lot.excalidraw.md",
+    "ATM.excalidraw.md",
     "Excalidraw/Drawing 2024-07-01 15.02.37.excalidraw.md",
     "Excalidraw/Drawing 2024-07-01 15.28.16.excalidraw.md",
     "Excalidraw/Drawing 2024-07-01 15.28.16.excalidraw.png",
     "Excalidraw",
-    "Parking Lot.excalidraw.md",
     "Hotel Booking System.excalidraw.md",
     "Flight Booking System.excalidraw.md",
     "Food Delivery System.excalidraw.md",
     "Coupon Application.excalidraw.md",
     "Order Management System.excalidraw.md",
     "Snake n Ladder.excalidraw.md",
-    "Cricbuzz.excalidraw.md",
-    "Elevator System.excalidraw.md",
-    "Tic Tac Toe.excalidraw.md",
-    "Splitwise.excalidraw.md"
+    "Cricbuzz.excalidraw.md"
   ]
 }

@@ -15,8 +15,6 @@ public class ATMRoom {
         atmRoom.atm.getCurrentATMState().selectOperation(atmRoom.atm, atmRoom.user.card, TransactionType.CASH_WITHDRAWAL);
         atmRoom.atm.getCurrentATMState().cashWithdrawal(atmRoom.atm, atmRoom.user.card, 4700);
         atmRoom.atm.printCurrentATMStatus();
-
-
     }
 
     private void initialize() {
@@ -30,26 +28,21 @@ public class ATMRoom {
     }
 
     private User createUser() {
-
         User user = new User();
         user.setCard(createCard());
         return user;
     }
 
     private Card createCard() {
-
         Card card = new Card();
         card.setBankAccount(createBankAccount());
         return card;
     }
 
     private UserBankAccount createBankAccount() {
-
         UserBankAccount bankAccount = new UserBankAccount();
         bankAccount.balance = 6000;
-
         return bankAccount;
-
     }
 
 }
