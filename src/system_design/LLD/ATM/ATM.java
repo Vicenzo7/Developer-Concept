@@ -70,7 +70,7 @@ public class ATM {
         noOfOneHundredNotes = noOfOneHundredNotes - number;
     }
 
-    public void printCurrentATMStatus(){
+    public void printCurrentATMStatus() {
         System.out.println("Balance: " + atmBalance);
         System.out.println("2kNotes: " + noOfTwoThousandNotes);
         System.out.println("500Notes: " + noOfFiveHundredNotes);

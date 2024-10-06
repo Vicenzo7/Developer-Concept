@@ -2,27 +2,26 @@ package system_design.LLD.ATM.AmountWithdrawal;
 
 import system_design.LLD.ATM.ATM;
 
-public class OneHundredWithdrawProcessor extends CashWithdrawProcessor{
+public class OneHundredWithdrawProcessor extends CashWithdrawProcessor {
 
-    public OneHundredWithdrawProcessor(CashWithdrawProcessor nextCashWithdrawProcessor){
+    public OneHundredWithdrawProcessor(CashWithdrawProcessor nextCashWithdrawProcessor) {
         super(nextCashWithdrawProcessor);
     }
 
-    public void withdraw(ATM atm, int remainingAmount){
+    public void withdraw(ATM atm, int remainingAmount) {
 
-        int required =  remainingAmount/100;
-        int balance = remainingAmount%100;
+        int required = remainingAmount / 100;
+        int balance = remainingAmount % 100;
 
-        if(required <= atm.getNoOfOneHundredNotes()) {
+        if (required <= atm.getNoOfOneHundredNotes()) {
             atm.deductOneHundredNotes(required);
-        }
-        else if(required > atm.getNoOfOneHundredNotes()) {
-            balance = balance + (required-atm.getNoOfOneHundredNotes()) * 100;
+        } else if (required > atm.getNoOfOneHundredNotes()) {
+            balance = balance + (required - atm.getNoOfOneHundredNotes()) * 100;
             atm.deductOneHundredNotes(atm.getNoOfOneHundredNotes());
         }
 
-        if(balance != 0){
-           System.out.println("Something went wrong");
+        if (balance != 0) {
+            System.out.println("Something went wrong");
         }
     }
 }

@@ -4,14 +4,14 @@ import system_design.LLD.ATM.ATM;
 import system_design.LLD.ATM.Card;
 import system_design.LLD.ATM.TransactionType;
 
-public class SelectOperationState extends ATMState{
+public class SelectOperationState extends ATMState {
 
-    public SelectOperationState(){
+    public SelectOperationState() {
         showOperations();
     }
 
     @Override
-    public void selectOperation(ATM atmObject, Card card, TransactionType txnType){
+    public void selectOperation(ATM atmObject, Card card, TransactionType txnType) {
 
         switch (txnType) {
 
@@ -30,18 +30,18 @@ public class SelectOperationState extends ATMState{
     }
 
     @Override
-    public void exit(ATM atmObject){
+    public void exit(ATM atmObject) {
         returnCard();
         atmObject.setCurrentATMState(new IdleState());
         System.out.println("Exit happens");
     }
 
     @Override
-    public void returnCard(){
+    public void returnCard() {
         System.out.println("Please collect your card");
     }
 
-    private void showOperations(){
+    private void showOperations() {
         System.out.println("Please select the Operation");
         TransactionType.showAllTransactionTypes();
     }

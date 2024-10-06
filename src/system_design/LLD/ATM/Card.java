@@ -10,11 +10,7 @@ public class Card {
     private UserBankAccount bankAccount;
 
     public boolean isCorrectPINEntered(int pin) {
-
-        if (pin == PIN_NUMBER) {
-            return true;
-        }
-        return false;
+        return pin == PIN_NUMBER;
     }
 
     public int getBankBalance(){
