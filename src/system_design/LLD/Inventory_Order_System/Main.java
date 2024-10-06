@@ -10,7 +10,7 @@ import java.util.List;
 
 public class Main {
 
-    public static void main(String[] args){
+    public static void main(String[] args) {
         Main mainObj = new Main();
 
         //1. create warehouses in the system
@@ -29,15 +29,14 @@ public class Main {
     }
 
 
-
-    private Warehouse addWarehouseAndItsInventory(){
+    private Warehouse addWarehouseAndItsInventory() {
 
         Warehouse warehouse = new Warehouse();
 
         Inventory inventory = new Inventory();
 
-        inventory.addCategory(0001, "Peppsii Large Cold Drink" , 100);
-        inventory.addCategory(0004, "Doovee small Soap" , 50);
+        inventory.addCategory(0001, "Peppsii Large Cold Drink", 100);
+        inventory.addCategory(0004, "Doovee small Soap", 50);
 
         //CREATE 3 Products
 
@@ -63,7 +62,7 @@ public class Main {
     }
 
 
-    private User createUser(){
+    private User createUser() {
         User user = new User();
         user.userId = 1;
         user.userName = "SJ";
@@ -71,22 +70,22 @@ public class Main {
         return user;
     }
 
-    private void runDeliveryFlow(ProductDeliverySystem productDeliverySystem, int userId){
+    private void runDeliveryFlow(ProductDeliverySystem productDeliverySystem, int userId) {
 
 
         //1. Get the user object
         User user = productDeliverySystem.getUser(userId);
 
         //2. get warehouse based on user preference
-       Warehouse warehouse = productDeliverySystem.getWarehouse(new NearestWarehouseSelectionStrategy());
+        Warehouse warehouse = productDeliverySystem.getWarehouse(new NearestWarehouseSelectionStrategy());
 
         //3. get all the inventory to show the user
         Inventory inventory = productDeliverySystem.getInventory(warehouse);
 
         ProductCategory productCategoryIWantToOrder = null;
-        for(ProductCategory productCategory : inventory.productCategoryList){
+        for (ProductCategory productCategory : inventory.productCategoryList) {
 
-            if(productCategory.categoryName.equals("Peppsii Large Cold Drink")){
+            if (productCategory.categoryName.equals("Peppsii Large Cold Drink")) {
                 productCategoryIWantToOrder = productCategory;
             }
         }

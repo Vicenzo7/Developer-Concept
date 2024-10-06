@@ -11,13 +11,13 @@ public class User {
     public Cart userCartDetails;
     public List<Integer> orderIds;
 
-    public User(){
+    public User() {
         userCartDetails = new Cart();
         orderIds = new ArrayList<>();
     }
 
     //get UserCart
-    public Cart getUserCart(){
+    public Cart getUserCart() {
         return userCartDetails;
     }
 }

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cd794947a614cc8b",
+        "id": "ef4223b7f8f15fc4",
         "type": "tabs",
         "children": [
           {
-            "id": "ab17fcd6f1fb21d3",
+            "id": "0d0a6dece70f6430",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/ATM.excalidraw.md"
+                "file": "Excalidraw/Order Management System.excalidraw.md"
               }
             }
           }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/ATM.excalidraw.md",
+                "file": "Excalidraw/Order Management System.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/ATM.excalidraw.md",
+                "file": "Excalidraw/Order Management System.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/ATM.excalidraw.md"
+                "file": "Excalidraw/Order Management System.excalidraw.md"
               }
             }
           }
@@ -146,8 +146,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ab17fcd6f1fb21d3",
+  "active": "0d0a6dece70f6430",
   "lastOpenFiles": [
+    "Excalidraw/interview-parking-lot.excalidraw.md",
+    "Excalidraw/tiny-url.excalidraw.md",
+    "Excalidraw/Snake n Ladder.excalidraw.md",
+    "Excalidraw/Cricbuzz.excalidraw.md",
+    "Excalidraw/Book My Show.excalidraw.md",
+    "Excalidraw/ATM.excalidraw.md",
     "Excalidraw/Elevator System.excalidraw.md",
     "Excalidraw/Tic Tac Toe.excalidraw.md",
     "Excalidraw/Splitwise.excalidraw.md",

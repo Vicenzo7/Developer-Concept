@@ -37,17 +37,17 @@ public class TheatreController {
 
         //filter the theatres which run this movie
 
-        for(Theatre theatre : theatres) {
+        for (Theatre theatre : theatres) {
 
             List<Show> givenMovieShows = new ArrayList<>();
             List<Show> shows = theatre.getShows();
 
-            for(Show show : shows) {
-                if(show.movie.getMovieId() == movie.getMovieId()) {
+            for (Show show : shows) {
+                if (show.movie.getMovieId() == movie.getMovieId()) {
                     givenMovieShows.add(show);
                 }
             }
-            if(!givenMovieShows.isEmpty()) {
+            if (!givenMovieShows.isEmpty()) {
                 theatreVsShows.put(theatre, givenMovieShows);
             }
         }

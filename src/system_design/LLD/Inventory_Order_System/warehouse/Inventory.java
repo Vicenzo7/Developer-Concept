@@ -9,12 +9,12 @@ public class Inventory {
     //category wise products storage
     public List<ProductCategory> productCategoryList;
 
-    public Inventory(){
+    public Inventory() {
         productCategoryList = new ArrayList<>();
     }
 
     //add new category
-    public void addCategory(int categoryId, String name, int price){
+    public void addCategory(int categoryId, String name, int price) {
         ProductCategory productCategory = new ProductCategory();
         productCategory.price = price;
         productCategory.categoryName = name;
@@ -24,38 +24,36 @@ public class Inventory {
 
 
     //add product to the particular category
-    public void addProduct(Product product, int productCategoryId){
+    public void addProduct(Product product, int productCategoryId) {
 
         //take out the respective productCategory Object
         ProductCategory categoryObject = null;
-        for(ProductCategory category : productCategoryList)
-        {
-            if(category.productCategoryId == productCategoryId){
+        for (ProductCategory category : productCategoryList) {
+            if (category.productCategoryId == productCategoryId) {
                 categoryObject = category;
             }
         }
 
-        if(categoryObject !=null) {
+        if (categoryObject != null) {
             categoryObject.addProduct(product);
         }
     }
 
     //remove product from the category
-    public void removeItems(Map<Integer, Integer> productCategoryAndCountMap){
+    public void removeItems(Map<Integer, Integer> productCategoryAndCountMap) {
 
-        for(Map.Entry<Integer, Integer> entry : productCategoryAndCountMap.entrySet())
-        {
+        for (Map.Entry<Integer, Integer> entry : productCategoryAndCountMap.entrySet()) {
             ProductCategory category = getProductCategoryFromID(entry.getKey());
-             category.removeProduct(entry.getValue());
+            category.removeProduct(entry.getValue());
         }
 
     }
 
-    private ProductCategory getProductCategoryFromID(int productCategoryId){
+    private ProductCategory getProductCategoryFromID(int productCategoryId) {
 
-        for(ProductCategory productCategory : productCategoryList){
+        for (ProductCategory productCategory : productCategoryList) {
 
-            if(productCategory.productCategoryId == productCategoryId){
+            if (productCategory.productCategoryId == productCategoryId) {
                 return productCategory;
             }
         }

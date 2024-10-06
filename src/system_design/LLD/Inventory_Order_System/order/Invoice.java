@@ -7,7 +7,7 @@ public class Invoice {
     int totalFinalPrice;
 
     //generate Invoice
-    public void generateInvoice(Order order){
+    public void generateInvoice(Order order) {
 
         //it will compute and update the above details
         totalItemPrice = 200;
