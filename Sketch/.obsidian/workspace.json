@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "26b098e6aace386d",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd794947a614cc8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab17fcd6f1fb21d3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/ATM.excalidraw.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4af20257c89faff6",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2f3c04594b13ef3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8077d175400e745",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2a9d6c2d5acf8127",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b97977ba03d96a41",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "c08cc5fae2e2b930",
+    "type": "split",
+    "children": [
+      {
+        "id": "249bdd5386b20284",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e4b5498ed2c1693",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Excalidraw/ATM.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a42aac689495d381",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Excalidraw/ATM.excalidraw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e0616abcf02c8341",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1bf8019d97a26142",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Excalidraw/ATM.excalidraw.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "ab17fcd6f1fb21d3",
+  "lastOpenFiles": [
+    "Excalidraw/Elevator System.excalidraw.md",
+    "Excalidraw/Tic Tac Toe.excalidraw.md",
+    "Excalidraw/Splitwise.excalidraw.md",
+    "Excalidraw/Car Rental System.excalidraw.md",
+    "Excalidraw/Parking Lot.excalidraw.md"
+  ]
+}

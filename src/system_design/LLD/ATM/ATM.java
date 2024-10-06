@@ -5,7 +5,7 @@ import system_design.LLD.ATM.ATMStates.IdleState;
 
 public class ATM {
 
-    private static ATM atmObject = new ATM(); //Singleton: eager initialization
+    private static final ATM atmObject = new ATM(); //Singleton: eager initialization
 
     ATMState currentATMState;
 

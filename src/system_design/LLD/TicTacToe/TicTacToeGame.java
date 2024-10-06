@@ -111,6 +111,4 @@ public class TicTacToeGame {
 
         return rowMatch || colMatch || diagonalMatch || antiDiagonalMatch;
     }
-
-
 }
