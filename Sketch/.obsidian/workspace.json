@@ -4,20 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "ef4223b7f8f15fc4",
+        "id": "ab2adbaf73abd218",
         "type": "tabs",
         "children": [
           {
-            "id": "0d0a6dece70f6430",
+            "id": "7ea6329c134d0b7e",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Order Management System.excalidraw.md"
-              }
+                "file": "Excalidraw/Design Key Value Store.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Design Key Value Store"
+            }
+          },
+          {
+            "id": "9c1b56f45049c629",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Sql vs NoSql.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Sql vs NoSql"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -37,7 +52,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -52,7 +69,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -60,7 +79,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -84,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Order Management System.excalidraw.md",
+                "file": "Excalidraw/tiny-url.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +113,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for tiny-url.excalidraw"
             }
           },
           {
@@ -101,10 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Order Management System.excalidraw.md",
+                "file": "Excalidraw/tiny-url.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from tiny-url.excalidraw"
             }
           },
           {
@@ -115,7 +140,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -124,8 +151,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Order Management System.excalidraw.md"
-              }
+                "file": "Excalidraw/tiny-url.excalidraw.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of tiny-url.excalidraw"
             }
           }
         ]
@@ -146,18 +175,47 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0d0a6dece70f6430",
+  "active": "9c1b56f45049c629",
   "lastOpenFiles": [
-    "Excalidraw/interview-parking-lot.excalidraw.md",
+    "Excalidraw/Design Key Value Store.md",
+    "Excalidraw/Sql vs NoSql.md",
+    "Excalidraw/Back of the Envelope Estimation.md",
+    "Excalidraw/Microservice-Design-Pattern.md",
+    "Excalidraw/Network-Protocols.excalidraw.md",
+    "Excalidraw/Computer Networks-Basic.md",
+    "Pasted Image 20241223125432_725.png",
+    "Pasted Image 20241223110534_831.png",
+    "Pasted Image 20241222194351_179.png",
+    "Pasted Image 20241222190528_914.png",
+    "Pasted Image 20241222180056_752.png",
+    "Pasted Image 20241222175345_559.png",
+    "Pasted Image 20241222174600_702.png",
+    "Pasted Image 20241222172439_461.png",
+    "Pasted Image 20241222172411_270.png",
+    "Pasted Image 20241222170839_974.png",
+    "Excalidraw/Design-Short-URL.md",
+    "Excalidraw/Consistent-Hashing.md",
+    "Excalidraw/Car Rental System.excalidraw.md",
+    "Excalidraw/Drawing 2024-12-21 10.17.50.excalidraw.md",
+    "Excalidraw/Drawing 2024-12-21 10.17.52.excalidraw.md",
+    "Excalidraw",
     "Excalidraw/tiny-url.excalidraw.md",
+    "Excalidraw/Flight Booking System.excalidraw.md",
+    "test-taken-env/Interview/Excalidraw/Drawing 2024-10-09 13.57.05.excalidraw.md",
+    "test-taken-env/Interview/Excalidraw",
+    "test-taken-env/Interview/Welcome.md",
+    "test-taken-env/Interview",
+    "test-taken-env",
+    "Excalidraw/interview-parking-lot.excalidraw.md",
+    "Excalidraw/Parking Lot.excalidraw.md",
+    "Excalidraw/Hotel Booking System.excalidraw.md",
+    "Excalidraw/Food Delivery System.excalidraw.md",
+    "Excalidraw/Coupon Application.excalidraw.md",
+    "Excalidraw/Order Management System.excalidraw.md",
     "Excalidraw/Snake n Ladder.excalidraw.md",
     "Excalidraw/Cricbuzz.excalidraw.md",
     "Excalidraw/Book My Show.excalidraw.md",
     "Excalidraw/ATM.excalidraw.md",
-    "Excalidraw/Elevator System.excalidraw.md",
-    "Excalidraw/Tic Tac Toe.excalidraw.md",
-    "Excalidraw/Splitwise.excalidraw.md",
-    "Excalidraw/Car Rental System.excalidraw.md",
-    "Excalidraw/Parking Lot.excalidraw.md"
+    "Excalidraw/Elevator System.excalidraw.md"
   ]
 }

@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "394a9925239b366c",
+        "id": "d6cbf49211eee10d",
         "type": "tabs",
         "children": [
           {
-            "id": "cfdcd288d8cf7b3d",
+            "id": "826b6f8f04ba8ccd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-12-21 10.24.14.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-12-21 10.24.14.excalidraw"
             }
           }
         ]
@@ -35,7 +39,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -50,7 +56,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -58,7 +66,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -88,7 +98,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -99,7 +111,9 @@
               "state": {
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -110,7 +124,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -118,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
         ]
@@ -139,30 +157,46 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cfdcd288d8cf7b3d",
+  "active": "826b6f8f04ba8ccd",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-10-06 12.06.19.excalidraw.md",
+    "Drawing 2024-12-21 10.20.02.excalidraw.md",
+    "Excalidraw/Drawing 2024-12-21 10.24.14.excalidraw.md",
     "Excalidraw",
-    "Excalidraw/Drawing 2024-09-28 15.42.38.excalidraw.md",
-    "Hotel Booking System.excalidraw.md",
-    "Food Delivery System.excalidraw.md",
-    "Flight Booking System.excalidraw.md",
-    "Coupon Application.excalidraw.md",
-    "Order Management System.excalidraw.md",
-    "Car Rental System.excalidraw.md",
-    "Snake n Ladder.excalidraw.md",
-    "Cricbuzz.excalidraw.md",
-    "Book My Show.excalidraw.md",
-    "ATM.excalidraw.md",
     "Elevator System.excalidraw.md",
-    "Tic Tac Toe.excalidraw.md",
-    "Splitwise.excalidraw.md",
-    "tiny-url.excalidraw.md",
-    "Parking Lot.excalidraw.md",
-    "State Design Pattern.excalidraw.md",
-    "interview-parking-lot.excalidraw.md",
-    "Excalidraw/Drawing 2024-07-01 15.02.37.excalidraw.md",
-    "Excalidraw/Drawing 2024-07-01 15.28.16.excalidraw.md",
-    "Excalidraw/Drawing 2024-07-01 15.28.16.excalidraw.png"
+    "ATM.excalidraw.md",
+    "Excalidraw/Drawing 2024-12-21 10.22.42.excalidraw.md",
+    "Excalidraw/Drawing 2024-12-21 10.21.27.excalidraw.md",
+    "Excalidraw/Network-Protocols.excalidraw.md",
+    "HLD/Scale-from-Zero-To-Million-Users---.md",
+    "HLD/Network-Protocols.excalidraw.md",
+    "HLD/Microservice-Design-Pattern..md",
+    "HLD/Drawing 2024-12-21 10.20.02.excalidraw.md",
+    "HLD/CAP-Theorem.excalidraw.md",
+    "HLD",
+    "LLD/tiny-url.excalidraw.md",
+    "LLD/Tic Tac Toe.excalidraw.md",
+    "LLD/State Design Pattern.excalidraw.md",
+    "LLD/Splitwise.excalidraw.md",
+    "LLD/Snake n Ladder.excalidraw.md",
+    "LLD/Pasted Image 20241220162533_663.png",
+    "LLD/Pasted Image 20241220161455_599.png",
+    "LLD/Pasted Image 20241220161123_567.png",
+    "LLD/Pasted Image 20241220160734_530.png",
+    "LLD/Pasted Image 20241220152501_298.png",
+    "LLD/Pasted Image 20241220101831_456.png",
+    "LLD/Parking Lot.excalidraw.md",
+    "LLD/Order Management System.excalidraw.md",
+    "LLD/Null Object Design Pattern.excalidraw.md",
+    "LLD/Mediator Design Pattern.excalidraw.md",
+    "LLD/interview-parking-lot.excalidraw.md",
+    "LLD/Hotel Booking System.excalidraw.md",
+    "LLD/Food Delivery System.excalidraw.md",
+    "LLD/Flight Booking System.excalidraw.md",
+    "LLD/Elevator System.excalidraw.md",
+    "LLD",
+    "Excalidraw/CAP-Theorem.excalidraw.png",
+    "Pasted Image 20241220162533_663.png",
+    "Pasted Image 20241220161455_599.png",
+    "Pasted Image 20241220161123_567.png"
   ]
 }
