@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ab2adbaf73abd218",
+        "id": "c6639010bfa403a8",
         "type": "tabs",
         "children": [
           {
-            "id": "7ea6329c134d0b7e",
+            "id": "acd70eea34e63db3",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Design Key Value Store.md"
+                "file": "Excalidraw/tiny-url.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Design Key Value Store"
-            }
-          },
-          {
-            "id": "9c1b56f45049c629",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Sql vs NoSql.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Sql vs NoSql"
+              "title": "tiny-url.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c08cc5fae2e2b930",
@@ -175,24 +161,32 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9c1b56f45049c629",
+  "active": "acd70eea34e63db3",
   "lastOpenFiles": [
+    "web-url-hit.png",
+    "Excalidraw/Load Balancer and its Algorithm.md",
+    "Untitled.canvas",
+    "2024-12-25.md",
+    "Pasted Image 20241225230320_810.png",
+    "Pasted Image 20241225230402_812.png",
+    "Pasted Image 20241225225907_750.png",
+    "Pasted Image 20241225225612_848.png",
+    "Pasted Image 20241225224704_057.png",
+    "Pasted Image 20241225223449_883.png",
+    "Pasted Image 20241225222518_682.png",
+    "Pasted Image 20241225221228_151.png",
+    "Excalidraw/Proxy vs Reverse Proxy.md",
+    "Pasted Image 20241225203824_085.png",
+    "Pasted Image 20241225203753_537.png",
+    "Excalidraw/Design Messaging Queue.md",
+    "Excalidraw/Design Rate Limiter.md",
+    "Excalidraw/HLD-of-Chat Application.md",
+    "Excalidraw/Back of the Envelope Estimation.md",
     "Excalidraw/Design Key Value Store.md",
     "Excalidraw/Sql vs NoSql.md",
-    "Excalidraw/Back of the Envelope Estimation.md",
     "Excalidraw/Microservice-Design-Pattern.md",
     "Excalidraw/Network-Protocols.excalidraw.md",
     "Excalidraw/Computer Networks-Basic.md",
-    "Pasted Image 20241223125432_725.png",
-    "Pasted Image 20241223110534_831.png",
-    "Pasted Image 20241222194351_179.png",
-    "Pasted Image 20241222190528_914.png",
-    "Pasted Image 20241222180056_752.png",
-    "Pasted Image 20241222175345_559.png",
-    "Pasted Image 20241222174600_702.png",
-    "Pasted Image 20241222172439_461.png",
-    "Pasted Image 20241222172411_270.png",
-    "Pasted Image 20241222170839_974.png",
     "Excalidraw/Design-Short-URL.md",
     "Excalidraw/Consistent-Hashing.md",
     "Excalidraw/Car Rental System.excalidraw.md",
@@ -209,13 +203,6 @@
     "Excalidraw/interview-parking-lot.excalidraw.md",
     "Excalidraw/Parking Lot.excalidraw.md",
     "Excalidraw/Hotel Booking System.excalidraw.md",
-    "Excalidraw/Food Delivery System.excalidraw.md",
-    "Excalidraw/Coupon Application.excalidraw.md",
-    "Excalidraw/Order Management System.excalidraw.md",
-    "Excalidraw/Snake n Ladder.excalidraw.md",
-    "Excalidraw/Cricbuzz.excalidraw.md",
-    "Excalidraw/Book My Show.excalidraw.md",
-    "Excalidraw/ATM.excalidraw.md",
-    "Excalidraw/Elevator System.excalidraw.md"
+    "Excalidraw/Food Delivery System.excalidraw.md"
   ]
 }
