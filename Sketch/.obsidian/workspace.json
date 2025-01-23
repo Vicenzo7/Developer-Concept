@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "c6639010bfa403a8",
+        "id": "ab68875f24536873",
         "type": "tabs",
         "children": [
           {
-            "id": "acd70eea34e63db3",
+            "id": "c85aa1b32f314f9e",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/tiny-url.excalidraw.md"
+                "file": "Excalidraw/Design Key Value Store.md"
               },
               "icon": "excalidraw-icon",
-              "title": "tiny-url.excalidraw"
+              "title": "Design Key Value Store"
+            }
+          },
+          {
+            "id": "7cdd451685b18c74",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Microservices-Key-Design-Patterns.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Microservices-Key-Design-Patterns"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c08cc5fae2e2b930",
@@ -161,12 +175,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "acd70eea34e63db3",
+  "active": "7cdd451685b18c74",
   "lastOpenFiles": [
-    "web-url-hit.png",
+    "Excalidraw/Design Key Value Store.md",
+    "Excalidraw/Microservices-Key-Design-Patterns.md",
     "Excalidraw/Load Balancer and its Algorithm.md",
+    "Excalidraw/Proxy vs Reverse Proxy.md",
+    "Excalidraw/Design Messaging Queue.md",
+    "Excalidraw/Design Rate Limiter.md",
+    "Excalidraw/Sql vs NoSql.md",
+    "Excalidraw/Consistent-Hashing.md",
+    "Excalidraw/Scale-from-Zero-To-Million-Users---.md",
+    "Excalidraw/Microservice-Design-Pattern.md",
+    "Excalidraw/CAP-Theorem.excalidraw.md",
+    "Excalidraw/Computer Networks-Basic.md",
+    "Excalidraw/Network-Protocols.excalidraw.md",
+    "Excalidraw/HLD-of-Chat Application.md",
+    "Untitled.md",
+    "Excalidraw/Back of the Envelope Estimation.md",
+    "Excalidraw/Mediator Design Pattern.excalidraw.md",
+    "Excalidraw/Design-Short-URL.md",
+    "Excalidraw/Hotel Booking System.excalidraw.md",
+    "Excalidraw/Food Delivery System.excalidraw.md",
+    "Excalidraw/Flight Booking System.excalidraw.md",
+    "Excalidraw/Coupon Application.excalidraw.md",
+    "Excalidraw/Order Management System.excalidraw.md",
+    "Excalidraw/interview-parking-lot.excalidraw.md",
+    "Excalidraw/Cricbuzz.excalidraw.md",
+    "Excalidraw/Splitwise.excalidraw.md",
+    "web-url-hit.png",
     "Untitled.canvas",
-    "2024-12-25.md",
     "Pasted Image 20241225230320_810.png",
     "Pasted Image 20241225230402_812.png",
     "Pasted Image 20241225225907_750.png",
@@ -175,34 +213,10 @@
     "Pasted Image 20241225223449_883.png",
     "Pasted Image 20241225222518_682.png",
     "Pasted Image 20241225221228_151.png",
-    "Excalidraw/Proxy vs Reverse Proxy.md",
     "Pasted Image 20241225203824_085.png",
-    "Pasted Image 20241225203753_537.png",
-    "Excalidraw/Design Messaging Queue.md",
-    "Excalidraw/Design Rate Limiter.md",
-    "Excalidraw/HLD-of-Chat Application.md",
-    "Excalidraw/Back of the Envelope Estimation.md",
-    "Excalidraw/Design Key Value Store.md",
-    "Excalidraw/Sql vs NoSql.md",
-    "Excalidraw/Microservice-Design-Pattern.md",
-    "Excalidraw/Network-Protocols.excalidraw.md",
-    "Excalidraw/Computer Networks-Basic.md",
-    "Excalidraw/Design-Short-URL.md",
-    "Excalidraw/Consistent-Hashing.md",
-    "Excalidraw/Car Rental System.excalidraw.md",
-    "Excalidraw/Drawing 2024-12-21 10.17.50.excalidraw.md",
-    "Excalidraw/Drawing 2024-12-21 10.17.52.excalidraw.md",
     "Excalidraw",
-    "Excalidraw/tiny-url.excalidraw.md",
-    "Excalidraw/Flight Booking System.excalidraw.md",
-    "test-taken-env/Interview/Excalidraw/Drawing 2024-10-09 13.57.05.excalidraw.md",
     "test-taken-env/Interview/Excalidraw",
-    "test-taken-env/Interview/Welcome.md",
     "test-taken-env/Interview",
-    "test-taken-env",
-    "Excalidraw/interview-parking-lot.excalidraw.md",
-    "Excalidraw/Parking Lot.excalidraw.md",
-    "Excalidraw/Hotel Booking System.excalidraw.md",
-    "Excalidraw/Food Delivery System.excalidraw.md"
+    "test-taken-env"
   ]
 }
