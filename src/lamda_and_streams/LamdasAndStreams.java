@@ -1,5 +1,6 @@
 package lamda_and_streams;
 
+import java.lang.reflect.Array;
 import java.time.LocalDate;
 import java.time.temporal.ChronoUnit;
 import java.util.*;
@@ -11,11 +12,11 @@ import java.util.stream.Stream;
 public class LamdasAndStreams {
     public static void main(String[] args) {
 
-        seprateOddEvenNumbers();
+        separateOddEvenNumbers();
         removeDuplicateElements();
         characterFrequencyMap();
         wordFrequencyMap();
-        sortInAsecendingAndDecendingOrder();
+        sortInAscendingAndDescendingOrder();
         joinList();
         getMultipleOf5();
         minMax();
@@ -48,13 +49,13 @@ public class LamdasAndStreams {
     }
 
     private static void joinList() {
-        //        Given a list of strings, join the strings with ‘[‘ as prefix, ‘]’ as suffix and ‘,’ as delimiter?
+        // Given a list of strings, join the strings with '[' as prefix, ‘]’ as suffix and ‘,’ as delimiter?
         List<String> listOfStrings = Arrays.asList("Facebook", "Twitter", "YouTube", "WhatsApp", "LinkedIn");
         String joinedList = listOfStrings.stream().collect(Collectors.joining(",", "[", "]"));
         System.out.println(joinedList);
     }
 
-    private static void sortInAsecendingAndDecendingOrder() {
+    private static void sortInAscendingAndDescendingOrder() {
         //        How do you sort the given list of decimals in reverse order?
 
         List<Double> decimalList = Arrays.asList(12.45, 23.58, 17.13, 42.89, 33.78, 71.85, 56.98, 21.12);
@@ -102,7 +103,7 @@ public class LamdasAndStreams {
         System.out.println(uniqueElements);
     }
 
-    private static void seprateOddEvenNumbers() {
+    private static void separateOddEvenNumbers() {
         // Given a list of integers, separate odd and even numbers?
 
         List<Integer> numbers = Arrays.asList(71, 18, 42, 21, 67, 32, 95, 14, 56, 87);
