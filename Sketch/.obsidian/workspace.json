@@ -4,35 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "ab68875f24536873",
+        "id": "6c319559e5c3bf42",
         "type": "tabs",
         "children": [
           {
-            "id": "c85aa1b32f314f9e",
+            "id": "3b634f354cf117ca",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Design Key Value Store.md"
+                "file": "Excalidraw/Ticketmaster.excalidraw"
               },
+              "pinned": true,
               "icon": "excalidraw-icon",
-              "title": "Design Key Value Store"
+              "title": "Ticketmaster"
             }
           },
           {
-            "id": "7cdd451685b18c74",
+            "id": "9dac8e2970d9a6a1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Uber.excalidraw"
+              },
+              "pinned": true,
+              "icon": "excalidraw-icon",
+              "title": "Uber"
+            }
+          },
+          {
+            "id": "56b986f07b6d8353",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Microservices-Key-Design-Patterns.md"
+                "file": "Excalidraw/Dropbox.excalidraw"
               },
               "icon": "excalidraw-icon",
-              "title": "Microservices-Key-Design-Patterns"
+              "title": "Dropbox"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -51,7 +67,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -175,35 +192,41 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7cdd451685b18c74",
+  "active": "56b986f07b6d8353",
   "lastOpenFiles": [
+    "Excalidraw/Ticketmaster.excalidraw",
+    "Excalidraw/Uber.excalidraw",
+    "Excalidraw/Dropbox.excalidraw",
+    "Excalidraw/Dropbox.excalidraw.crswap",
+    "web-url-hit.png",
+    "Excalidraw/Uber.excalidraw.crswap",
+    "Excalidraw/Uber.excalidraw.md",
+    "Excalidraw/Distributed Cache and Caching Strategies.md",
+    "Pasted Image 20250208153751_034.png",
+    "Excalidraw/Design Idempotency Handler.md",
+    "Excalidraw/Design High Availability Architecture.md",
+    "Excalidraw/Food Delivery System.excalidraw.md",
+    "Excalidraw/Book My Show.excalidraw.md",
+    "Excalidraw/Parking Lot.excalidraw.md",
+    "Excalidraw/Splitwise.excalidraw.md",
+    "Excalidraw/Cricbuzz.excalidraw.md",
+    "Excalidraw/Order Management System.excalidraw.md",
+    "Excalidraw/Coupon Application.excalidraw.md",
+    "Excalidraw/Flight Booking System.excalidraw.md",
+    "Excalidraw/Hotel Booking System.excalidraw.md",
+    "Excalidraw/Splitwise.excalidraw.png",
+    "Excalidraw/ATM.excalidraw.md",
+    "Excalidraw/Snake n Ladder.excalidraw.md",
+    "Excalidraw/Car Rental System.excalidraw.md",
+    "Excalidraw/Elevator System.excalidraw.md",
+    "Excalidraw/Tic Tac Toe.excalidraw.md",
+    "Tic.md",
     "Excalidraw/Design Key Value Store.md",
     "Excalidraw/Microservices-Key-Design-Patterns.md",
     "Excalidraw/Load Balancer and its Algorithm.md",
     "Excalidraw/Proxy vs Reverse Proxy.md",
     "Excalidraw/Design Messaging Queue.md",
     "Excalidraw/Design Rate Limiter.md",
-    "Excalidraw/Sql vs NoSql.md",
-    "Excalidraw/Consistent-Hashing.md",
-    "Excalidraw/Scale-from-Zero-To-Million-Users---.md",
-    "Excalidraw/Microservice-Design-Pattern.md",
-    "Excalidraw/CAP-Theorem.excalidraw.md",
-    "Excalidraw/Computer Networks-Basic.md",
-    "Excalidraw/Network-Protocols.excalidraw.md",
-    "Excalidraw/HLD-of-Chat Application.md",
-    "Untitled.md",
-    "Excalidraw/Back of the Envelope Estimation.md",
-    "Excalidraw/Mediator Design Pattern.excalidraw.md",
-    "Excalidraw/Design-Short-URL.md",
-    "Excalidraw/Hotel Booking System.excalidraw.md",
-    "Excalidraw/Food Delivery System.excalidraw.md",
-    "Excalidraw/Flight Booking System.excalidraw.md",
-    "Excalidraw/Coupon Application.excalidraw.md",
-    "Excalidraw/Order Management System.excalidraw.md",
-    "Excalidraw/interview-parking-lot.excalidraw.md",
-    "Excalidraw/Cricbuzz.excalidraw.md",
-    "Excalidraw/Splitwise.excalidraw.md",
-    "web-url-hit.png",
     "Untitled.canvas",
     "Pasted Image 20241225230320_810.png",
     "Pasted Image 20241225230402_812.png",
@@ -212,8 +235,6 @@
     "Pasted Image 20241225224704_057.png",
     "Pasted Image 20241225223449_883.png",
     "Pasted Image 20241225222518_682.png",
-    "Pasted Image 20241225221228_151.png",
-    "Pasted Image 20241225203824_085.png",
     "Excalidraw",
     "test-taken-env/Interview/Excalidraw",
     "test-taken-env/Interview",

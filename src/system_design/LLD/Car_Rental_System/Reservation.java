@@ -20,11 +20,11 @@ public class Reservation {
     private ReservationStatus reservationStatus;
 
 
-    public int createReserve(User user, Vehicle vehicle){
+    public int createReserve(User user, Vehicle vehicle) {
         //generate new id
         this.reservationId = 12232;
-        this.user=user;
-        this.vehicle=vehicle;
+        this.user = user;
+        this.vehicle = vehicle;
         this.reservationType = ReservationType.DAILY;
         this.reservationStatus = ReservationStatus.SCHEDULED;
         return reservationId;
