@@ -8,47 +8,131 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3b634f354cf117ca",
+            "id": "613bf8964b3fee88",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Ticketmaster.excalidraw"
+                "file": "Excalidraw/Ticketmaster.excalidraw.md"
               },
               "pinned": true,
               "icon": "excalidraw-icon",
-              "title": "Ticketmaster"
+              "title": "Ticketmaster.excalidraw"
             }
           },
           {
-            "id": "9dac8e2970d9a6a1",
+            "id": "cca6cb4ebd1947d3",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Uber.excalidraw"
+                "file": "Excalidraw/Uber.excalidraw.md"
               },
               "pinned": true,
               "icon": "excalidraw-icon",
-              "title": "Uber"
+              "title": "Uber.excalidraw"
             }
           },
           {
-            "id": "56b986f07b6d8353",
+            "id": "3c3d752c10fd6b0b",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Dropbox.excalidraw"
+                "file": "Excalidraw/Dropbox.md"
               },
+              "pinned": true,
               "icon": "excalidraw-icon",
               "title": "Dropbox"
             }
+          },
+          {
+            "id": "5e2a6f3426119e00",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Ad Click Aggregator.md"
+              },
+              "pinned": true,
+              "icon": "excalidraw-icon",
+              "title": "Ad Click Aggregator"
+            }
+          },
+          {
+            "id": "dca9f2ae63424ff0",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Web Crawler.md"
+              },
+              "pinned": true,
+              "icon": "excalidraw-icon",
+              "title": "Web Crawler"
+            }
+          },
+          {
+            "id": "f17f0c235c6dc6c8",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Leetcode.md"
+              },
+              "pinned": true,
+              "icon": "excalidraw-icon",
+              "title": "Leetcode"
+            }
+          },
+          {
+            "id": "61e12c225786e8c8",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Tinder.md"
+              },
+              "pinned": true,
+              "icon": "excalidraw-icon",
+              "title": "Tinder"
+            }
+          },
+          {
+            "id": "80b3d487df384eb3",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Bit.ly.md"
+              },
+              "pinned": true,
+              "icon": "excalidraw-icon",
+              "title": "Bit.ly"
+            }
+          },
+          {
+            "id": "085dd1afe4b1ebdb",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Leetcode.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Leetcode"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -105,8 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c08cc5fae2e2b930",
@@ -192,15 +275,32 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "56b986f07b6d8353",
+  "active": "085dd1afe4b1ebdb",
   "lastOpenFiles": [
-    "Excalidraw/Ticketmaster.excalidraw",
-    "Excalidraw/Uber.excalidraw",
-    "Excalidraw/Dropbox.excalidraw",
-    "Excalidraw/Dropbox.excalidraw.crswap",
-    "web-url-hit.png",
-    "Excalidraw/Uber.excalidraw.crswap",
+    "Excalidraw/Ticketmaster.excalidraw.md",
+    "Excalidraw/Dropbox.md",
+    "Excalidraw/Leetcode.md",
+    "Excalidraw/Load Balancer and its Algorithm.md",
+    "Excalidraw/Microservices-Key-Design-Patterns.md",
+    "Excalidraw/FB Live Comments.md",
+    "Excalidraw/Bit.ly.md",
+    "Excalidraw/FB Live Comments.excalidraw",
+    "Excalidraw/Design-Short-URL.md",
+    "Excalidraw/FB Live Comments.excalidraw.crswap",
+    "Excalidraw/Tinder.md",
+    "Excalidraw/Back of the Envelope Estimation.md",
+    "Excalidraw/Bit.ly.excalidraw",
+    "Excalidraw/Bit.ly.excalidraw.crswap",
     "Excalidraw/Uber.excalidraw.md",
+    "Excalidraw/Tinder.excalidraw",
+    "Excalidraw/Web Crawler.md",
+    "Excalidraw/Tinder.excalidraw.crswap",
+    "Excalidraw/Ad Click Aggregator.md",
+    "Excalidraw/Leetcode.excalidraw",
+    "Excalidraw/Leetcode.excalidraw.crswap",
+    "Excalidraw/Web Crawler.excalidraw",
+    "Excalidraw/Dropbox.excalidraw",
+    "web-url-hit.png",
     "Excalidraw/Distributed Cache and Caching Strategies.md",
     "Pasted Image 20250208153751_034.png",
     "Excalidraw/Design Idempotency Handler.md",
@@ -216,17 +316,6 @@
     "Excalidraw/Hotel Booking System.excalidraw.md",
     "Excalidraw/Splitwise.excalidraw.png",
     "Excalidraw/ATM.excalidraw.md",
-    "Excalidraw/Snake n Ladder.excalidraw.md",
-    "Excalidraw/Car Rental System.excalidraw.md",
-    "Excalidraw/Elevator System.excalidraw.md",
-    "Excalidraw/Tic Tac Toe.excalidraw.md",
-    "Tic.md",
-    "Excalidraw/Design Key Value Store.md",
-    "Excalidraw/Microservices-Key-Design-Patterns.md",
-    "Excalidraw/Load Balancer and its Algorithm.md",
-    "Excalidraw/Proxy vs Reverse Proxy.md",
-    "Excalidraw/Design Messaging Queue.md",
-    "Excalidraw/Design Rate Limiter.md",
     "Untitled.canvas",
     "Pasted Image 20241225230320_810.png",
     "Pasted Image 20241225230402_812.png",
@@ -234,10 +323,6 @@
     "Pasted Image 20241225225612_848.png",
     "Pasted Image 20241225224704_057.png",
     "Pasted Image 20241225223449_883.png",
-    "Pasted Image 20241225222518_682.png",
-    "Excalidraw",
-    "test-taken-env/Interview/Excalidraw",
-    "test-taken-env/Interview",
-    "test-taken-env"
+    "Pasted Image 20241225222518_682.png"
   ]
 }
