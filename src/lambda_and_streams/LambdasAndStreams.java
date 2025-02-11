@@ -1,6 +1,5 @@
-package lamda_and_streams;
+package lambda_and_streams;
 
-import java.lang.reflect.Array;
 import java.time.LocalDate;
 import java.time.temporal.ChronoUnit;
 import java.util.*;
@@ -9,7 +8,7 @@ import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 import java.util.stream.Stream;
 
-public class LamdasAndStreams {
+public class LambdasAndStreams {
     public static void main(String[] args) {
 
         separateOddEvenNumbers();

@@ -122,17 +122,33 @@
           {
             "id": "085dd1afe4b1ebdb",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/Leetcode.md"
               },
+              "pinned": true,
               "icon": "excalidraw-icon",
               "title": "Leetcode"
             }
+          },
+          {
+            "id": "6a30eef1b1c1fe98",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/FB Live Comments.md"
+              },
+              "pinned": true,
+              "icon": "excalidraw-icon",
+              "title": "FB Live Comments"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -189,7 +205,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c08cc5fae2e2b930",
@@ -275,14 +292,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "085dd1afe4b1ebdb",
+  "active": "6a30eef1b1c1fe98",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-02-11 13.31.53.excalidraw.md",
+    "Excalidraw/Distributed Cache and Caching Strategies.md",
+    "Excalidraw/FB Live Comments.md",
+    "Excalidraw/Leetcode.md",
     "Excalidraw/Ticketmaster.excalidraw.md",
     "Excalidraw/Dropbox.md",
-    "Excalidraw/Leetcode.md",
     "Excalidraw/Load Balancer and its Algorithm.md",
     "Excalidraw/Microservices-Key-Design-Patterns.md",
-    "Excalidraw/FB Live Comments.md",
     "Excalidraw/Bit.ly.md",
     "Excalidraw/FB Live Comments.excalidraw",
     "Excalidraw/Design-Short-URL.md",
@@ -301,7 +320,6 @@
     "Excalidraw/Web Crawler.excalidraw",
     "Excalidraw/Dropbox.excalidraw",
     "web-url-hit.png",
-    "Excalidraw/Distributed Cache and Caching Strategies.md",
     "Pasted Image 20250208153751_034.png",
     "Excalidraw/Design Idempotency Handler.md",
     "Excalidraw/Design High Availability Architecture.md",
@@ -315,7 +333,6 @@
     "Excalidraw/Flight Booking System.excalidraw.md",
     "Excalidraw/Hotel Booking System.excalidraw.md",
     "Excalidraw/Splitwise.excalidraw.png",
-    "Excalidraw/ATM.excalidraw.md",
     "Untitled.canvas",
     "Pasted Image 20241225230320_810.png",
     "Pasted Image 20241225230402_812.png",
