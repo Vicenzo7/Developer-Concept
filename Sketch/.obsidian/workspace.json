@@ -4,151 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "6c319559e5c3bf42",
+        "id": "c41b9240b6b605c3",
         "type": "tabs",
         "children": [
           {
-            "id": "613bf8964b3fee88",
+            "id": "6f8d9b8fd4c88f5a",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Ticketmaster.excalidraw.md"
-              },
-              "pinned": true,
-              "icon": "excalidraw-icon",
-              "title": "Ticketmaster.excalidraw"
-            }
-          },
-          {
-            "id": "cca6cb4ebd1947d3",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Uber.excalidraw.md"
-              },
-              "pinned": true,
-              "icon": "excalidraw-icon",
-              "title": "Uber.excalidraw"
-            }
-          },
-          {
-            "id": "3c3d752c10fd6b0b",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Dropbox.md"
-              },
-              "pinned": true,
-              "icon": "excalidraw-icon",
-              "title": "Dropbox"
-            }
-          },
-          {
-            "id": "5e2a6f3426119e00",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Ad Click Aggregator.md"
-              },
-              "pinned": true,
-              "icon": "excalidraw-icon",
-              "title": "Ad Click Aggregator"
-            }
-          },
-          {
-            "id": "dca9f2ae63424ff0",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Web Crawler.md"
-              },
-              "pinned": true,
-              "icon": "excalidraw-icon",
-              "title": "Web Crawler"
-            }
-          },
-          {
-            "id": "f17f0c235c6dc6c8",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Leetcode.md"
-              },
-              "pinned": true,
-              "icon": "excalidraw-icon",
-              "title": "Leetcode"
-            }
-          },
-          {
-            "id": "61e12c225786e8c8",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Tinder.md"
-              },
-              "pinned": true,
-              "icon": "excalidraw-icon",
-              "title": "Tinder"
-            }
-          },
-          {
-            "id": "80b3d487df384eb3",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Bit.ly.md"
-              },
-              "pinned": true,
-              "icon": "excalidraw-icon",
-              "title": "Bit.ly"
-            }
-          },
-          {
-            "id": "085dd1afe4b1ebdb",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Leetcode.md"
-              },
-              "pinned": true,
-              "icon": "excalidraw-icon",
-              "title": "Leetcode"
-            }
-          },
-          {
-            "id": "6a30eef1b1c1fe98",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/FB Live Comments.md"
-              },
-              "pinned": true,
-              "icon": "excalidraw-icon",
-              "title": "FB Live Comments"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c08cc5fae2e2b930",
@@ -292,29 +160,30 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6a30eef1b1c1fe98",
+  "active": "e8077d175400e745",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-02-20 16.45.33.excalidraw.md",
+    "Excalidraw/FB Live Comments.md",
+    "Excalidraw/Ticketmaster.excalidraw.md",
+    "Excalidraw/Uber.excalidraw.md",
+    "Excalidraw/Dropbox.md",
+    "Excalidraw/Ad Click Aggregator.md",
+    "Excalidraw/Web Crawler.md",
+    "Excalidraw/Leetcode.md",
+    "Excalidraw/Tinder.md",
+    "Excalidraw/Bit.ly.md",
     "Excalidraw/Drawing 2025-02-11 13.31.53.excalidraw.md",
     "Excalidraw/Distributed Cache and Caching Strategies.md",
-    "Excalidraw/FB Live Comments.md",
-    "Excalidraw/Leetcode.md",
-    "Excalidraw/Ticketmaster.excalidraw.md",
-    "Excalidraw/Dropbox.md",
     "Excalidraw/Load Balancer and its Algorithm.md",
     "Excalidraw/Microservices-Key-Design-Patterns.md",
-    "Excalidraw/Bit.ly.md",
     "Excalidraw/FB Live Comments.excalidraw",
     "Excalidraw/Design-Short-URL.md",
     "Excalidraw/FB Live Comments.excalidraw.crswap",
-    "Excalidraw/Tinder.md",
     "Excalidraw/Back of the Envelope Estimation.md",
     "Excalidraw/Bit.ly.excalidraw",
     "Excalidraw/Bit.ly.excalidraw.crswap",
-    "Excalidraw/Uber.excalidraw.md",
     "Excalidraw/Tinder.excalidraw",
-    "Excalidraw/Web Crawler.md",
     "Excalidraw/Tinder.excalidraw.crswap",
-    "Excalidraw/Ad Click Aggregator.md",
     "Excalidraw/Leetcode.excalidraw",
     "Excalidraw/Leetcode.excalidraw.crswap",
     "Excalidraw/Web Crawler.excalidraw",
@@ -331,7 +200,6 @@
     "Excalidraw/Order Management System.excalidraw.md",
     "Excalidraw/Coupon Application.excalidraw.md",
     "Excalidraw/Flight Booking System.excalidraw.md",
-    "Excalidraw/Hotel Booking System.excalidraw.md",
     "Excalidraw/Splitwise.excalidraw.png",
     "Untitled.canvas",
     "Pasted Image 20241225230320_810.png",
